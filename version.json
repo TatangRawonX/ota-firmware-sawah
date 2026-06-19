@@ -1,0 +1,10 @@
+{
+  "box1": {
+    "version": "1.0.0",
+    "url": "https://github.com/TatangRawonX/ota-firmware-sawah/releases/download/v1.0.0/box1.bin"
+  },
+  "box3": {
+    "version": "1.0.0",
+    "url": "https://github.com/TatangRawonX/ota-firmware-sawah/releases/download/v1.0.0/box3.bin"
+  }
+}
